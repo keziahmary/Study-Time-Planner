@@ -1,0 +1,8 @@
+I have utilized GitHub as a version control system for my mobile app project, but I realize that I didn’t commit as often as I should have during the development process. 
+When I initially began working on the app, I wasn’t fully aware that I was supposed to commit regularly after every significant change or update. 
+I believed GitHub was primarily for saving the final version of my project or for sharing it at the end.
+Because of this misunderstanding, I ended up doing most of my work locally in Android Studio without frequently pushing my progress to GitHub. 
+I only committed my changes towards the end of development, once the app was mostly functional. Looking back, I now see that regular commits would have made it simpler to track progress, manage changes, and recover from any errors.
+To still capture the development journey, I’ve included a few rough commits with estimated summaries based on what I remember doing — such as setting up the Room database, creating the UI screens, fixing layout problems, and implementing ViewModel architecture. 
+These don’t perfectly match the actual timeline but represent the phases I went through.
+If I were to do this again, I would certainly make it a routine to commit every time I finish a feature or test a change. I now recognize the significance of version control not just for backup, but for tracking progress and collaborating effectively.
